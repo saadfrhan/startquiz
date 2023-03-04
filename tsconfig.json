@@ -9,6 +9,7 @@
     ],
     "skipLibCheck": true,
     "sourceMap": true,
+    "strict": true,
     "outDir": "./dist",
     "moduleResolution": "node",
     "removeComments": true,
@@ -32,6 +33,7 @@
   ],
   "include": [
     "./src/**/*.ts",
-    "src/index.ts"
+    "src/index.ts",
+    "src/constants/index.js"
   ]
 }
