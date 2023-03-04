@@ -1,6 +1,6 @@
 {
   "name": "quiz",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Quiz CLI using Node.js, TypeScript, and Inquirer",
   "homepage": "https://github.com/saadfrhan/node-inquirer-quiz-cli#readme",
   "main": "src/index.js",

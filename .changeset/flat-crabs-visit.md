@@ -1,5 +1,0 @@
----
-"quiz": minor
----
-
-Minor improvements
