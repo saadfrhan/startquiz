@@ -1,5 +1,11 @@
 # quiz
 
+## 1.1.1
+
+### Patch Changes
+
+- ff0b2b9: tweaks
+
 ## 1.1.0
 
 ### Minor Changes
