@@ -1,5 +1,11 @@
 # quiz
 
+## 1.0.1
+
+### Patch Changes
+
+- 04a86be: tweak
+
 ## 1.0.0
 
 ### Major Changes
