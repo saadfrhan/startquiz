@@ -1,9 +1,9 @@
-# node-inquirer-quiz-cli
+# startquiz
 
 Quiz CLI using Node.js, TypeScript, and Inquirer
 
 ## Run
 
 ```bash
-npx quiz
+npx startquiz
 ```
