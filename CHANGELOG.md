@@ -1,5 +1,11 @@
 # quiz
 
+## 1.1.2
+
+### Patch Changes
+
+- 9c60d80: tweak
+
 ## 1.1.1
 
 ### Patch Changes
