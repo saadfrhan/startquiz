@@ -1,5 +1,11 @@
 # quiz
 
+## 1.1.3
+
+### Patch Changes
+
+- e434e45: add release command
+
 ## 1.1.2
 
 ### Patch Changes
