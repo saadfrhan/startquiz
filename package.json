@@ -1,12 +1,12 @@
 {
-  "name": "quiz",
+  "name": "startquiz",
   "version": "1.1.2",
   "description": "Quiz CLI using Node.js, TypeScript, and Inquirer",
   "homepage": "https://github.com/saadfrhan/node-inquirer-quiz-cli#readme",
   "main": "src/index.js",
   "type": "module",
   "bin": {
-    "quiz": "./dist/index.js"
+    "startquiz": "./dist/index.js"
   },
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
