@@ -182,9 +182,7 @@ class main {
         }
       }
 
-      console.log(
-        chalk.blue(`The game ends, your final score is ${this.score}.`)
-      );
+      console.log(chalk.blue(`GAMEOVER, your final score is ${this.score}.`));
     } else {
       spinner.error({ text: questions as string });
     }
